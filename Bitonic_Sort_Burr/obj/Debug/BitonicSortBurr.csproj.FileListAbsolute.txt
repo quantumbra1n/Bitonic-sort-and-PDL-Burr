@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.Form2.resources
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\bin\Debug\BitonicSortBurr.exe.config
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\bin\Debug\BitonicSortBurr.exe
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\bin\Debug\BitonicSortBurr.pdb
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.Form1.resources
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.Properties.Resources.resources
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.exe
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.pdb
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.Form3.resources
+C:\Users\User\source\repos\BitonicSortBurr\Bitonic_Sort_Burr\obj\Debug\BitonicSortBurr.Form4.resources
